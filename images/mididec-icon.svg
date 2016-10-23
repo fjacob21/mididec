@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="765"
-   height="990"
-   viewBox="0 0 765.00001 990.00002"
+   width="32"
+   height="32"
+   viewBox="0 0 32 31.999999"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="mididecblue.svg"
-   inkscape:export-filename="/home/fred/mididecblue.svg.png"
+   sodipodi:docname="mididec-icon.svg"
+   inkscape:export-filename="/home/fred/mididec-icon.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-85.269557"
-     inkscape:cy="625.99124"
+     inkscape:zoom="4"
+     inkscape:cx="-21.015695"
+     inkscape:cy="4.3668339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,14 +57,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-62.362183)">
-    <ellipse
-       style="fill:#2a7fff;fill-rule:evenodd;stroke:#000000;stroke-width:32.01422501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:14.69999981;stroke-dasharray:none;stroke-opacity:1"
-       id="path4156"
-       cx="374.76657"
-       cy="521.02197"
-       rx="321.68155"
-       ry="292.38712" />
+     transform="translate(0,-1020.3622)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5274"
@@ -79,16 +72,16 @@
            style="fill:#ffffff;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara5280" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:360.89498901px;line-height:125%;font-family:MathJax_Caligraphic;-inkscape-font-specification:'MathJax_Caligraphic, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:15.14399973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="30.41448"
-       y="531.75781"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.32755089px;line-height:125%;font-family:MathJax_Caligraphic;-inkscape-font-specification:'MathJax_Caligraphic, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:0.45909843;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="0.85648704"
+       y="675.12555"
        id="text5309"
        sodipodi:linespacing="125%"
-       transform="scale(0.7772318,1.2866175)"><tspan
+       transform="scale(0.64490502,1.5506159)"><tspan
          sodipodi:role="line"
          id="tspan5311"
-         x="30.41448"
-         y="531.75781"
-         style="stroke-width:15.14399973;stroke-miterlimit:4;stroke-dasharray:none">MD</tspan></text>
+         x="0.85648704"
+         y="675.12555"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.32755089px;line-height:125%;font-family:MathJax_Caligraphic;-inkscape-font-specification:'MathJax_Caligraphic, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke-width:0.45909843;stroke-miterlimit:4;stroke-dasharray:none">MD</tspan></text>
   </g>
 </svg>
